@@ -1,0 +1,8 @@
+# ignore generated html files,
+node_modules/*
+reports/*
+.git/*
+.idea
+example.*
+learnings.*
+learning.*
