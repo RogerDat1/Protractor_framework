@@ -36,7 +36,7 @@
     "cucumber-html-report": "^0.6.0",
     "cucumber-html-reporter": "^2.0.2",
     "exceljs": "^0.4.2",
-    "galenframework": "^2.3.6",
+    "galenframework": "^2.4.4",
     "mkdirp": "^0.5.1",
     "protractor": "^5.1.2",
     "protractor-cucumber-framework": "^3.1.2",
